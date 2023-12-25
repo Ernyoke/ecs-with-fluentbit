@@ -1,0 +1,14 @@
+{
+    "source": "stdout",
+    "ecs_task_arn": "arn:aws:ecs:region:0123456789012:task/FluentBit-cluster/13EXAMPLE",
+    "container_name": "/ecs-windows-app-task-1-sample-container-cEXAMPLE",
+    "ecs_cluster": "FluentBit-cluster",
+    "ecs_container_name": "sample-container",
+    "ecs_task_definition_version": "1",
+    "container_id": "61f5e6EXAMPLE",
+    "log": {
+        "type": "error",
+        "message": "Something happened!"
+    },
+    "ecs_task_definition_family": "windows-app-task"
+}
